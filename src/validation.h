@@ -19,6 +19,7 @@
 #include "script/script_error.h"
 #include "sync.h"
 #include "versionbits.h"
+#include "serialize.h"
 #include "spentindex.h"
 
 #include <algorithm>
